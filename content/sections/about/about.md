@@ -1,14 +1,12 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageSrc: "../../images/about-photo.jpg"
+imageAlt: "About Photo"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+My fascination with web development goes all the way back to the days of Livejournal blogging in the early 2000s, where I would tinker around with CSS styling to make custom themes. Eventually I went off to university where I was interested in so many things, but there was no clear path to become a web developer so I pursued other interests.
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+I honed professional soft skills in several jobs and ended up working as a Project Manager. In that position I learned that I enjoy technically challenging jobs, helping to create something, and also expressing my creativity. I came to two realizations: that web development is something I am incredibly passionate about, and that I can forge my own path to this career regardless of formal education.
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
+Now I'm incredibly passionate about all the possibilities that JavaScript can offer, the advances of CSS (no more float layouts!), as well as more esoteric topics such as WCAG accessibility and information architecture.
 
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
-
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+At the end of the day, though, I love taking concepts and designs and figuring out how to turn them into reality.
