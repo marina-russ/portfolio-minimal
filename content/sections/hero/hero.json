@@ -1,26 +1,24 @@
 {
-  "intro": "Hej",
+  "intro": "Hello!",
   "heroPhoto": {
-    "src": "../../images/lego-dummy.png",
-    "alt": "My Photo"
+    "src": "../../images/hero-photo.jpg",
+    "alt": "Hero Photo"
   },
   "image": {
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "I'm Marina Russ,",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
-    "suffix": "."
+    "prefix": "a self-taught ",
+    "highlight": "front-end",
+    "suffix": " developer."
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "Welcome to my portfolio.",
   "socialProfiles": {
     "from": [
       "LinkedIn",
-      "Medium",
-      "Github",
-      "Mail"
+      "Github"
     ],
     "showIcons": false
   }
