@@ -2,34 +2,9 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "ROADMAP APP - TBD",
-      "description": "[Description of the application]",
-      "tags": [
-        "Tech 1",
-        "Tech 2",
-        "Tech 3"
-      ],
-      "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/marina-russ"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/marina-russ"
-        },
-        {
-          "type": "external",
-          "url": "https://github.com/marina-russ"
-        }
-      ]
-    },
-    {
-      "visible": true,
+      "category": "🌸 SINGLE PAGE APP",
       "title": "CALCULATOR",
-      "description": "A calculator application using JavaScript class in order to perform basic mathematical operations without using the eval() function. Includes a Memory Recall feature with an emoji button that explains each abbreviation.",
+      "description": "A calculator application using JavaScript class in order to perform basic mathematical operations without using the eval() function. Includes a Memory Recall feature with an emoji button that explains each abbreviation!",
       "tags": [
         "JavaScript",
         "CSS Grid",
@@ -37,7 +12,7 @@
       ],
       "image": {
         "src": "../../images/calc-app.png",
-        "alt": "Extendable Layout",
+        "alt": "Calculator App Screenshot",
         "linkTo": "https://marina-russ.github.io/calculator/"
       },
       "links": [
@@ -48,6 +23,30 @@
         {
           "type": "external",
           "url": "https://marina-russ.github.io/calculator/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "🕹️ SINGLE PAGE APP",
+      "title": "Quiz Challenge",
+      "description": "A timed JavaScript coding quiz with multiple-choice questions",
+      "tags": [
+        "JavaScript"
+      ],
+      "image": {
+        "src": "../../images/resume-under-construction.jpg",
+        "alt": "App screenshot",
+        "linkTo": "https://github.com/marina-russ"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/marina-russ/msu-code-quiz"
+        },
+        {
+          "type": "external",
+          "url": "https://github.com/marina-russ"
         }
       ]
     }
