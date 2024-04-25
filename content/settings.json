@@ -28,10 +28,7 @@
 				"label": "Resume",
 				"url": "/resume-under-construction.jpg"
 			},
-			"footer": [
-				{ "label": "Privacy", "url": "/privacy" },
-				{ "label": "Imprint", "url": "/imprint" }
-			]
+			"footer": [{ "label": "Credit", "url": "/credit" }]
 		},
 		"featureToggles": {
 			"useDarkModeAsDefault": true,
