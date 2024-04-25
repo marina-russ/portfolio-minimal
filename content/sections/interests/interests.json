@@ -15,9 +15,16 @@
       }
     },
     {
-      "label": "ES6 JavaScript",
+      "label": "JavaScript",
       "image": {
-        "src": "../../images/javascript.png",
+        "src": "../../images/js.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "React.js",
+      "image": {
+        "src": "../../images/react.png",
         "alt": ""
       }
     },
@@ -29,23 +36,9 @@
       }
     },
     {
-      "label": "MySQL",
+      "label": "MongoDB",
       "image": {
-        "src": "../../images/mysql.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Sass",
-      "image": {
-        "src": "../../images/sass.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "VS Code",
-      "image": {
-        "src": "../../images/visual-studio-code.png",
+        "src": "../../images/mongodb.png",
         "alt": ""
       }
     },
@@ -57,9 +50,16 @@
       }
     },
     {
-      "label": "Slack",
+      "label": "Visual Studio Code",
       "image": {
-        "src": "../../images/slack.png",
+        "src": "../../images/visual-studio-code.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Postman",
+      "image": {
+        "src": "../../images/postman.png",
         "alt": ""
       }
     },
@@ -67,6 +67,13 @@
       "label": "Photoshop",
       "image": {
         "src": "../../images/photoshop.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Figma",
+      "image": {
+        "src": "../../images/figma.png",
         "alt": ""
       }
     }
