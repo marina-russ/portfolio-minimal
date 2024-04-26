@@ -35,9 +35,9 @@
         "JavaScript"
       ],
       "image": {
-        "src": "../../images/resume-under-construction.jpg",
+        "src": "../../images/code-quiz-screenshot.png",
         "alt": "App screenshot",
-        "linkTo": "https://github.com/marina-russ"
+        "linkTo": "https://marina-russ.github.io/msu-code-quiz/"
       },
       "links": [
         {
@@ -46,7 +46,7 @@
         },
         {
           "type": "external",
-          "url": "https://github.com/marina-russ"
+          "url": "https://marina-russ.github.io/msu-code-quiz/"
         }
       ]
     }
